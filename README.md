@@ -3,7 +3,7 @@
 
 Test262 is the implementation conformance test suite for the latest drafts (or most recent published edition) of the following Ecma specifications: 
 
-- [ECMA-262, ECMAScript Language Specification](https://tc39.github.io/ecma262/)
+- [ECMA-262, ECMAScript Language Specification](https://tc39.github.io/ecma262/) *
 - [ECMA-402, ECMAScript Internationalization API Specification](https://tc39.github.io/ecma402/) 
 - [ECMA-404, The JSON Data Interchange Format](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf) (pdf)
 
